@@ -111,3 +111,10 @@ line-height: 20px;
   background-repeat: no-repeat;
   background-position: right 24px top 50%;
 }
+.col3 {
+ display: flex;
+ gap: 20px;
+}
+.col3 > div:nth-child(1) {
+  width: 100%;
+}
