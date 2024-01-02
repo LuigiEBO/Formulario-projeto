@@ -173,3 +173,6 @@ line-height: 20px;
   footer .button:hover {
     background: #049646;
   }
+  input:invalid {
+    border: 2px solid #FF1010;
+  }
